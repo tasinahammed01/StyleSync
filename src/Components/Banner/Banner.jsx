@@ -19,7 +19,7 @@ const Banner = () => {
           out.
         </p>
         <Link
-          to="/AllProduct"
+          to="/AllProducts"
           className="text-base md:text-lg bg-[#FFA500] text-white px-6 py-3 rounded-2xl hover:bg-[#FF8C00] transition-all duration-300"
         >
           See All Products

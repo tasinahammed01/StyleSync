@@ -23,8 +23,8 @@ const FeaturedProduct = () => {
 
   return (
     <div className="featured-products mx-auto w-[90%] lg:left-32 lg:right-32 px-4 mt-20">
-      <h1 className="text-6xl text-center">Featured Products</h1>
-      <hr className="w-[30%] mx-auto border-1 mt-4" />
+      <h1 className="text-3xl  md:text-5xl lg:text-6xl font-bold text-center">Featured Products</h1>
+      <hr className="lg:w-[30%] mx-auto border-1 mt-4" />
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 mt-10">
         {products.slice(0, visibleProducts).map((product, index) => (
           <div key={index} className="product-card bg-white px-5 pb-10 rounded-lg shadow-lg">

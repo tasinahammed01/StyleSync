@@ -51,7 +51,7 @@ const Navbar = () => {
             Home
           </a>
           <a
-            href="/products"
+            href="/AllProducts"
             className="block md:inline text-gray-800 font-semibold hover:border-b-1 transition duration-500 px-3 py-2 rounded-md"
           >
             All Products
