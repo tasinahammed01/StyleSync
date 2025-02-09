@@ -118,5 +118,136 @@
     "price": 89.99,
     "category": "Clothing",
     "featured": false
+  },
+
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Hair Serum",
+    "description": "A nourishing hair serum that adds shine and promotes healthy hair growth.",
+    "price": 29.99,
+    "category": "Beauty",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Face Cream",
+    "description": "A rejuvenating face cream with anti-aging properties and vitamin E.",
+    "price": 49.99,
+    "category": "Beauty",
+    "featured": true
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Nail Polish Set",
+    "description": "A set of high-quality nail polishes in vibrant colors for a salon finish.",
+    "price": 19.99,
+    "category": "Beauty",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Makeup Brush Set",
+    "description": "A complete makeup brush set with all essential tools for flawless application.",
+    "price": 39.99,
+    "category": "Beauty",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Perfume",
+    "description": "A luxury perfume with a floral fragrance, perfect for daily wear.",
+    "price": 79.99,
+    "category": "Beauty",
+    "featured": true
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Lip Balm",
+    "description": "A soothing lip balm with natural ingredients to keep your lips soft and hydrated.",
+    "price": 9.99,
+    "category": "Beauty",
+    "featured": false
+  },
+
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Kids Toy Train",
+    "description": "A colorful toy train for kids that encourages creativity and imaginative play.",
+    "price": 24.99,
+    "category": "Kids",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Kids Puzzle",
+    "description": "A fun and educational puzzle set for children to improve problem-solving skills.",
+    "price": 19.99,
+    "category": "Kids",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Kids Backpack",
+    "description": "A cute and durable backpack designed for children to carry their essentials.",
+    "price": 29.99,
+    "category": "Kids",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Kids T-Shirt",
+    "description": "A soft cotton t-shirt for kids in fun and vibrant designs.",
+    "price": 14.99,
+    "category": "Kids",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Kids Shoes",
+    "description": "Comfortable and stylish shoes designed for active children.",
+    "price": 39.99,
+    "category": "Kids",
+    "featured": false
+  },
+
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Smartwatch",
+    "description": "A smartwatch with fitness tracking, heart rate monitoring, and notifications.",
+    "price": 129.99,
+    "category": "Gadgets",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Bluetooth Earbuds",
+    "description": "Wireless Bluetooth earbuds with noise cancellation and long battery life.",
+    "price": 79.99,
+    "category": "Gadgets",
+    "featured": true
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Wireless Speaker",
+    "description": "Portable Bluetooth speaker with high-quality sound and a long-lasting battery.",
+    "price": 69.99,
+    "category": "Gadgets",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Portable Charger",
+    "description": "A compact and fast-charging power bank to keep your devices charged on the go.",
+    "price": 39.99,
+    "category": "Gadgets",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Smartphone",
+    "description": "A high-performance smartphone with a sleek design and advanced features.",
+    "price": 499.99,
+    "category": "Gadgets",
+    "featured": false
   }
 ]
