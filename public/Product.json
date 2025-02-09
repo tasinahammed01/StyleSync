@@ -1,253 +1,254 @@
 [
   {
+    "id": 1,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Luxury Watch",
     "description": "A premium luxury watch with a stainless steel band and a classic design.",
     "price": 299.99,
-    "category": ["Watches,","Gadgets"],
+    "category": ["Watches", "Gadgets"],
     "featured": true
   },
   {
+    "id": 2,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Casual Denim Jacket",
     "description": "A stylish denim jacket perfect for casual outings and comfortable wear.",
     "price": 79.99,
-    "category": ["Clothing,","Fashion"],
+    "category": ["Clothing", "Fashion"],
     "featured": false
   },
   {
+    "id": 3,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Gold Necklace",
     "description": "A stunning gold necklace with a minimalist design, perfect for any occasion.",
     "price": 159.99,
-    "category": ["Gadgets,","Accessories"],
+    "category": ["Gadgets", "Accessories"],
     "featured": true
   },
   {
+    "id": 4,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Black Leather Wallet",
     "description": "A sleek black leather wallet with multiple card slots and a money clip.",
     "price": 49.99,
-    "category": "Gadgets",
+    "category": ["Gadgets"],
     "featured": false
   },
   {
+    "id": 5,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "White Sneakers",
     "description": "Comfortable and stylish white sneakers for everyday wear.",
     "price": 89.99,
-    "category": ["Footwear,","Fashion"],
+    "category": ["Footwear", "Fashion"],
     "featured": false
   },
   {
+    "id": 6,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Luxury Sunglasses",
     "description": "Sunglasses with high UV protection and a chic design.",
     "price": 139.99,
-    "category": "Accessories",
+    "category": ["Accessories"],
     "featured": true
   },
   {
+    "id": 7,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Elegant Evening Dress",
     "description": "A beautiful evening dress perfect for special occasions and parties.",
     "price": 199.99,
-    "category": ["Clothing,","Fashion"],
+    "category": ["Clothing", "Fashion"],
     "featured": false
   },
   {
+    "id": 8,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Sporty Backpack",
     "description": "A durable and stylish backpack for daily use and travel.",
     "price": 59.99,
-    "category": "Accessories",
+    "category": ["Accessories"],
     "featured": false
   },
   {
+    "id": 9,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Classic Leather Belt",
     "description": "A timeless leather belt designed for both casual and formal wear.",
     "price": 39.99,
-    "category": "Accessories",
+    "category": ["Accessories"],
     "featured": false
   },
   {
+    "id": 10,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Silk Scarf",
     "description": "A luxurious silk scarf to add elegance to any outfit.",
     "price": 49.99,
-    "category": "Accessories",
+    "category": ["Accessories"],
     "featured": false
   },
   {
+    "id": 11,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Floral Dress",
     "description": "A beautiful floral dress perfect for a summer day.",
     "price": 79.99,
-    "category": ["Clothing,","Fashion"],
+    "category": ["Clothing", "Fashion"],
     "featured": false
   },
   {
+    "id": 12,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Leather Watch Strap",
     "description": "A premium leather watch strap for luxury watches.",
     "price": 29.99,
-    "category": "Accessories",
+    "category": ["Accessories"],
     "featured": false
   },
   {
+    "id": 13,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Cotton T-Shirt",
     "description": "A soft and comfortable cotton t-shirt for everyday wear.",
     "price": 19.99,
-    "category": ["Clothing,","Fashion"],
+    "category": ["Clothing", "Fashion"],
     "featured": false
   },
   {
+    "id": 14,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Chunky Sneakers",
     "description": "Stylish and comfortable chunky sneakers for casual wear.",
     "price": 119.99,
-    "category": "Footwear",
+    "category": ["Footwear"],
     "featured": true
   },
   {
+    "id": 15,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Wool Sweater",
     "description": "A cozy wool sweater to keep you warm and stylish during the cold season.",
     "price": 89.99,
-    "category": ["Clothing,","Fashion"],
+    "category": ["Clothing", "Fashion"],
     "featured": false
   },
-
   {
+    "id": 16,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Hair Serum",
     "description": "A nourishing hair serum that adds shine and promotes healthy hair growth.",
     "price": 29.99,
-    "category": "Beauty",
+    "category": ["Beauty"],
     "featured": false
   },
   {
+    "id": 17,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Face Cream",
     "description": "A rejuvenating face cream with anti-aging properties and vitamin E.",
     "price": 49.99,
-    "category": "Beauty",
+    "category": ["Beauty"],
     "featured": true
   },
   {
+    "id": 18,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Nail Polish Set",
     "description": "A set of high-quality nail polishes in vibrant colors for a salon finish.",
     "price": 19.99,
-    "category": "Beauty",
+    "category": ["Beauty"],
     "featured": false
   },
   {
+    "id": 19,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Makeup Brush Set",
     "description": "A complete makeup brush set with all essential tools for flawless application.",
     "price": 39.99,
-    "category": "Beauty",
+    "category": ["Beauty"],
     "featured": false
   },
   {
+    "id": 20,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Perfume",
     "description": "A luxury perfume with a floral fragrance, perfect for daily wear.",
     "price": 79.99,
-    "category": "Beauty",
+    "category": ["Beauty"],
     "featured": true
   },
   {
+    "id": 21,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Lip Balm",
     "description": "A soothing lip balm with natural ingredients to keep your lips soft and hydrated.",
     "price": 9.99,
-    "category": "Beauty",
+    "category": ["Beauty"],
     "featured": false
   },
-
   {
+    "id": 22,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Kids Toy Train",
     "description": "A colorful toy train for kids that encourages creativity and imaginative play.",
     "price": 24.99,
-    "category": "Kids",
+    "category": ["Kids"],
     "featured": false
   },
   {
+    "id": 23,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Kids Puzzle",
     "description": "A fun and educational puzzle set for children to improve problem-solving skills.",
     "price": 19.99,
-    "category": "Kids",
+    "category": ["Kids"],
     "featured": false
   },
   {
+    "id": 24,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Kids Backpack",
     "description": "A cute and durable backpack designed for children to carry their essentials.",
     "price": 29.99,
-    "category": "Kids",
+    "category": ["Kids"],
     "featured": false
   },
   {
+    "id": 25,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Kids T-Shirt",
     "description": "A soft cotton t-shirt for kids in fun and vibrant designs.",
     "price": 14.99,
-    "category": "Kids",
+    "category": ["Kids"],
     "featured": false
   },
   {
+    "id": 26,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Kids Shoes",
     "description": "Comfortable and stylish shoes designed for active children.",
     "price": 39.99,
-    "category": "Kids",
+    "category": ["Kids"],
     "featured": false
   },
-
   {
+    "id": 27,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
     "name": "Smartwatch",
     "description": "A smartwatch with fitness tracking, heart rate monitoring, and notifications.",
     "price": 129.99,
-    "category": "Gadgets",
-    "featured": false
-  },
-  {
-    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
-    "name": "Bluetooth Earbuds",
-    "description": "Wireless Bluetooth earbuds with noise cancellation and long battery life.",
-    "price": 79.99,
-    "category": "Gadgets",
+    "category": ["Gadgets", "Watches"],
     "featured": true
   },
   {
+    "id": 28,
     "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
-    "name": "Wireless Speaker",
-    "description": "Portable Bluetooth speaker with high-quality sound and a long-lasting battery.",
-    "price": 69.99,
-    "category": "Gadgets",
-    "featured": false
-  },
-  {
-    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
-    "name": "Portable Charger",
-    "description": "A compact and fast-charging power bank to keep your devices charged on the go.",
-    "price": 39.99,
-    "category": "Gadgets",
-    "featured": false
-  },
-  {
-    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
-    "name": "Smartphone",
-    "description": "A high-performance smartphone with a sleek design and advanced features.",
-    "price": 499.99,
-    "category": "Gadgets",
+    "name": "Fitness Tracker",
+    "description": "A sleek fitness tracker that monitors your daily steps, calories, and activity levels.",
+    "price": 49.99,
+    "category": ["Gadgets", "Fitness"],
     "featured": false
   }
 ]

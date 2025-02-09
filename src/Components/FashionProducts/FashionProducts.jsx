@@ -41,7 +41,7 @@ const FashionProducts = () => {
             {/* Show Details Link */}
             <div className="text-center mt-4">
               <Link
-                to={`/ProductDetails/${product.id}`} // Replace with actual product ID if available
+                to={`/AllProducts/${product.id}`} // Replace with actual product ID if available
                 className="text-base md:text-lg bg-[#FFA500] text-white px-6 py-3 rounded-2xl hover:bg-[#FF8C00] transition-all duration-300"
               >
                 Show Details

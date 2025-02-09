@@ -26,7 +26,7 @@ const FeaturedProduct = () => {
       <h1 className="text-3xl  md:text-5xl lg:text-6xl font-bold text-center">Featured Products</h1>
       <hr className="lg:w-[30%] mx-auto border-1 mt-4" />
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 mt-10">
-        {products.slice(0, visibleProducts).map((product, index) => (
+        {products.slice(0, visibleProducts).map((product, index) => (        
           <div key={index} className="product-card bg-white px-5 pb-10 rounded-lg shadow-lg">
             <img
               src={product.image}
@@ -41,7 +41,7 @@ const FeaturedProduct = () => {
             {/* Show Details Link */}
             <div className="text-center mt-4">
               <Link
-                to={`/ProductDetails/${product.id}`} // Replace with actual product ID if available
+                to={`/AllProducts/${product.id}`} // Replace with actual product ID if available
                 className="text-base md:text-lg bg-[#FFA500] text-white px-6 py-3 rounded-2xl hover:bg-[#FF8C00] transition-all duration-300"
               >
                 Show Details
