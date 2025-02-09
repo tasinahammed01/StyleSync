@@ -1,0 +1,122 @@
+[
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Luxury Watch",
+    "description": "A premium luxury watch with a stainless steel band and a classic design.",
+    "price": 299.99,
+    "category": "Watches",
+    "featured": true
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Casual Denim Jacket",
+    "description": "A stylish denim jacket perfect for casual outings and comfortable wear.",
+    "price": 79.99,
+    "category": "Clothing",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Gold Necklace",
+    "description": "A stunning gold necklace with a minimalist design, perfect for any occasion.",
+    "price": 159.99,
+    "category": "Accessories",
+    "featured": true
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Black Leather Wallet",
+    "description": "A sleek black leather wallet with multiple card slots and a money clip.",
+    "price": 49.99,
+    "category": "Accessories",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "White Sneakers",
+    "description": "Comfortable and stylish white sneakers for everyday wear.",
+    "price": 89.99,
+    "category": "Footwear",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Luxury Sunglasses",
+    "description": "Sunglasses with high UV protection and a chic design.",
+    "price": 139.99,
+    "category": "Accessories",
+    "featured": true
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Elegant Evening Dress",
+    "description": "A beautiful evening dress perfect for special occasions and parties.",
+    "price": 199.99,
+    "category": "Clothing",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Sporty Backpack",
+    "description": "A durable and stylish backpack for daily use and travel.",
+    "price": 59.99,
+    "category": "Accessories",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Classic Leather Belt",
+    "description": "A timeless leather belt designed for both casual and formal wear.",
+    "price": 39.99,
+    "category": "Accessories",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Silk Scarf",
+    "description": "A luxurious silk scarf to add elegance to any outfit.",
+    "price": 49.99,
+    "category": "Accessories",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Floral Dress",
+    "description": "A beautiful floral dress perfect for a summer day.",
+    "price": 79.99,
+    "category": "Clothing",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Leather Watch Strap",
+    "description": "A premium leather watch strap for luxury watches.",
+    "price": 29.99,
+    "category": "Accessories",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Cotton T-Shirt",
+    "description": "A soft and comfortable cotton t-shirt for everyday wear.",
+    "price": 19.99,
+    "category": "Clothing",
+    "featured": false
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Chunky Sneakers",
+    "description": "Stylish and comfortable chunky sneakers for casual wear.",
+    "price": 119.99,
+    "category": "Footwear",
+    "featured": true
+  },
+  {
+    "image": "https://i.postimg.cc/X70swtGw/1955044573-8664-1-9826.jpg",
+    "name": "Wool Sweater",
+    "description": "A cozy wool sweater to keep you warm and stylish during the cold season.",
+    "price": 89.99,
+    "category": "Clothing",
+    "featured": false
+  }
+]

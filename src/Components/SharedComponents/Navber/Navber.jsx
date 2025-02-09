@@ -57,16 +57,10 @@ const Navbar = () => {
             All Products
           </a>
           <a
-            href="/login"
+            href="/contact"
             className="block md:inline text-gray-800 font-semibold hover:border-b-1 transition duration-500 px-3 py-2 rounded-md"
           >
-            Login
-          </a>
-          <a
-            href="/register"
-            className="block md:inline text-gray-800 font-semibold hover:border-b-1 transition duration-500 px-3 py-2 rounded-md"
-          >
-            Registration
+            Contact Us
           </a>
         </div>
       </div>
