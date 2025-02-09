@@ -57,7 +57,7 @@ const Navbar = () => {
             All Products
           </a>
           <a
-            href="/contact"
+            href="/contactus"
             className="block md:inline text-gray-800 font-semibold hover:border-b-1 transition duration-500 px-3 py-2 rounded-md"
           >
             Contact Us
