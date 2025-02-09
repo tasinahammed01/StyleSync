@@ -4,7 +4,7 @@
     "name": "Luxury Watch",
     "description": "A premium luxury watch with a stainless steel band and a classic design.",
     "price": 299.99,
-    "category": "Watches",
+    "category": ["Watches,","Gadgets"],
     "featured": true
   },
   {
@@ -12,7 +12,7 @@
     "name": "Casual Denim Jacket",
     "description": "A stylish denim jacket perfect for casual outings and comfortable wear.",
     "price": 79.99,
-    "category": "Clothing",
+    "category": ["Clothing,","Fashion"],
     "featured": false
   },
   {
@@ -20,7 +20,7 @@
     "name": "Gold Necklace",
     "description": "A stunning gold necklace with a minimalist design, perfect for any occasion.",
     "price": 159.99,
-    "category": "Accessories",
+    "category": ["Gadgets,","Accessories"],
     "featured": true
   },
   {
@@ -28,7 +28,7 @@
     "name": "Black Leather Wallet",
     "description": "A sleek black leather wallet with multiple card slots and a money clip.",
     "price": 49.99,
-    "category": "Accessories",
+    "category": "Gadgets",
     "featured": false
   },
   {
@@ -36,7 +36,7 @@
     "name": "White Sneakers",
     "description": "Comfortable and stylish white sneakers for everyday wear.",
     "price": 89.99,
-    "category": "Footwear",
+    "category": ["Footwear,","Fashion"],
     "featured": false
   },
   {
@@ -52,7 +52,7 @@
     "name": "Elegant Evening Dress",
     "description": "A beautiful evening dress perfect for special occasions and parties.",
     "price": 199.99,
-    "category": "Clothing",
+    "category": ["Clothing,","Fashion"],
     "featured": false
   },
   {
@@ -84,7 +84,7 @@
     "name": "Floral Dress",
     "description": "A beautiful floral dress perfect for a summer day.",
     "price": 79.99,
-    "category": "Clothing",
+    "category": ["Clothing,","Fashion"],
     "featured": false
   },
   {
@@ -100,7 +100,7 @@
     "name": "Cotton T-Shirt",
     "description": "A soft and comfortable cotton t-shirt for everyday wear.",
     "price": 19.99,
-    "category": "Clothing",
+    "category": ["Clothing,","Fashion"],
     "featured": false
   },
   {
@@ -116,7 +116,7 @@
     "name": "Wool Sweater",
     "description": "A cozy wool sweater to keep you warm and stylish during the cold season.",
     "price": 89.99,
-    "category": "Clothing",
+    "category": ["Clothing,","Fashion"],
     "featured": false
   },
 
