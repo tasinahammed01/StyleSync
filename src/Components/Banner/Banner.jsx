@@ -9,7 +9,7 @@ const Banner = () => {
         src="https://i.postimg.cc/bJdGtVgk/Beige-Brown-Minimalist-Jewelry-Brand-Fashion-Photo-Collage-Facebook-Cover.jpg"
         alt="Fashion Banner"
       />
-      <div className="absolute lg:top-1/3 md:top-16 top-1/4 left-6 right-6 md:left-16 md:right-16 lg:left-32 lg:right-32 w-[90%] md:w-[70%] lg:w-[40%] space-y-6  md:space-y-6">
+      <div className="absolute lg:top-1/3 md:top-16 top-1/4 left-6 right-6 md:left-16 md:right-16 lg:left-32 lg:right-32 w-[90%] md:w-[70%] lg:w-[40%] space-y-6  md:space-y-8">
         <h1 className="text-2xl  md:text-5xl lg:text-6xl font-bold text-white leading-tight">
           Wear Confidence, Define Elegance
         </h1>
@@ -20,9 +20,9 @@ const Banner = () => {
         </p>
         <Link
           to="/AllProduct"
-          className="text-base md:text-lg bg-[#D4AF37] px-6 py-3 rounded-2xl hover:bg-[#a89c74]"
+          className="text-base md:text-lg bg-[#FFA500] text-white px-6 py-3 rounded-2xl hover:bg-[#FF8C00] transition-all duration-300"
         >
-          See All Product
+          See All Products
         </Link>
       </div>
     </div>
