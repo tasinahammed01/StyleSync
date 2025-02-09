@@ -5,7 +5,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-[#ecebea] p-4 shadow-md">
+    <nav className="bg-[#ecebea] p-4 shadow-md sticky top-0 z-50">
       <div className="container mx-auto flex justify-between items-center lg:justify-between">
         {/* Logo Section */}
         <div className="flex items-center">
